@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {RootStack, LoginStack} from './router';
+import {LoginStack} from './router';
 export default class App extends Component{
 	render() {
 		return(
